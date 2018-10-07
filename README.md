@@ -1,3 +1,3 @@
 # exam-zavrsni
 
-Exam pr2, c++
+Exam pr2, not working, c++
